@@ -3,7 +3,7 @@ title: Exploratory Data Analysis Final Class Project
 date: 2020-12-06T20:34:50.151Z
 draft: false
 featured: false
-external_link: k
+external_link: projects
 image:
   filename: thankyou_shutterstock_735650659-1024x683.jpg
   focal_point: Center
