@@ -3,7 +3,7 @@ title: Gallup World Happiness Report 2020 Visualization
 date: 2020-12-06T21:59:56.381Z
 draft: false
 featured: false
-external_link: projects
+external_link: https://public.tableau.com/profile/umit.vatandost#!/vizhome/MakeOverMondayAssignment_Uvatandost/Dashboard1
 links:
   - url: https://public.tableau.com/profile/umit.vatandost#!/vizhome/MakeOverMondayAssignment_Uvatandost/Dashboard1
     name: Gallup World Happiness Report 2020 Visualization
