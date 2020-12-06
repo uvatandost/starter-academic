@@ -663,7 +663,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-para-margin-bottom:10.0pt;
 	mso-para-margin-left:0in;
 	mso-pagination:widow-orphan;
-	font-size:12.0pt;
+	font-size:11.0pt;
 	font-family:"Cambria",serif;
 	mso-ascii-font-family:Cambria;
 	mso-ascii-theme-font:minor-latin;
