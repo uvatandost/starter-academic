@@ -7,9 +7,9 @@ title: Titanic - Machine Learning from Disaster
 date: 2021-01-18T20:58:01.962Z
 draft: false
 featured: false
-external_link: https://umit-vatandost.netlify.app/projects
+external_link: https://umit-vatandost.netlify.app/
 image:
-  filename: featured
+  filename: sinking-of-the-titanic-gettyimages-542907919-1.jpg
   focal_point: Smart
   preview_only: false
 ---
