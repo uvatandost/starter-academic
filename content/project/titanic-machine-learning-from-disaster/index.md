@@ -7,11 +7,13 @@ title: Titanic - Machine Learning from Disaster
 date: 2021-01-18T20:58:01.962Z
 draft: false
 featured: false
-external_link: https://umit-vatandost.netlify.app/
+external_link: https://umit-vatandost.netlify.app/#projects
 image:
   filename: sinking-of-the-titanic-gettyimages-542907919-1.jpg
-  focal_point: Smart
+  focal_point: Top
   preview_only: false
+  caption: Titanic - Machine Learning from Disaster
+  alt_text: Predicting who survived from Titanic's sinking
 ---
 ```python
 # This Python 3 environment comes with many helpful analytics libraries installed
