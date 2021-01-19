@@ -14,28 +14,9 @@ image:
 
 Does how democratic a government is, influence internal conflicts in a country?
 
-
-
-
-
-
-
 <!--EndFragment-->
 
-<!--\\\[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<!\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
 
 <!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
