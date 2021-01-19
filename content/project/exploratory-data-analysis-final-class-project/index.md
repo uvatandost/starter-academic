@@ -5,26 +5,33 @@ draft: false
 featured: false
 external_link: projects
 image:
-  filename: thankyou_shutterstock_735650659-1024x683.jpg
+  filename: democracy.jfif
   focal_point: Center
-  preview_only: false
+  preview_only: true
+  caption: ""
 ---
-<!--\[if !mso]>
+<!--StartFragment-->
+
+Does how democratic a government is, influence internal conflicts in a country?
+
+<!--EndFragment-->
+
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -64,9 +71,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -645,9 +652,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -670,7 +677,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-hansi-font-family:Cambria;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -748,8 +755,6 @@ Below plots show the correlation between dataset variables based on Pearson meth
 
 ![](pca2.png)
 
-
-
 ```
 ## Importance of components:
 ##                           PC1    PC2     PC3     PC4     PC5    PC6     PC7
@@ -760,20 +765,19 @@ Below plots show the correlation between dataset variables based on Pearson meth
 ## Standard deviation     0.75037 0.68148 0.6676 0.63921 0.55828 0.1995 0.19089
 ## Proportion of Variance 0.00707 0.00583 0.0056 0.00513 0.00391 0.0005 0.00046
 ## Cumulative Proportion  0.97857 0.98441 0.9900 0.99513 0.99904 0.9995 1.00000
-
 ```
 
 ![](pca3.png)
 
 ![](pca4.png)
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -813,9 +817,9 @@ Below plots show the correlation between dataset variables based on Pearson meth
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1394,9 +1398,9 @@ Below plots show the correlation between dataset variables based on Pearson meth
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1419,7 +1423,7 @@ Below plots show the correlation between dataset variables based on Pearson meth
 	mso-hansi-font-family:Cambria;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
