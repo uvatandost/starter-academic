@@ -4,9 +4,7 @@ date: 2020-12-06T21:59:56.381Z
 draft: false
 featured: false
 external_link: https://public.tableau.com/profile/umit.vatandost#!/vizhome/MakeOverMondayAssignment_Uvatandost/Dashboard1
-links:
-  - url: https://public.tableau.com/profile/umit.vatandost#!/vizhome/MakeOverMondayAssignment_Uvatandost/Dashboard1
-    name: Gallup World Happiness Report 2020 Visualization
+links: []
 image:
   filename: screenshot-2021-01-19-103755.png
   focal_point: Smart
