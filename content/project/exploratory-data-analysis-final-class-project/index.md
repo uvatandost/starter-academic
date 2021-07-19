@@ -1,9 +1,9 @@
 ---
-title: Exploratory Data Analysis Final Class Project
+title: Exploratory Data Analysis and Visualization Project
 date: 2020-12-06T20:34:50.151Z
 draft: false
 featured: false
-external_link: projects
+external_link: https://umit-vatandost.netlify.app/project/exploratory-data-analysis-final-class-project/
 image:
   filename: democracy.jfif
   focal_point: Center
