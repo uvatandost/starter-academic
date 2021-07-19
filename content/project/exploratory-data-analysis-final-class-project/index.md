@@ -4,6 +4,10 @@ date: 2020-12-06T20:34:50.151Z
 draft: false
 featured: false
 external_link: https://umit-vatandost.netlify.app/project/exploratory-data-analysis-final-class-project/
+links:
+  - url: https://tdi-capstone-project.herokuapp.com/
+    name: Go to the app
+    icon_pack: null
 image:
   filename: democracy.jfif
   focal_point: Center
